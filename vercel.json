@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "build": {
+    "env": {
+      "VERCEL_CLI_VERSION": "vercel@https://vercel-kpvb4w1em.vercel.sh/tarballs/vercel.tgz",
+      "VERCEL_EXPERIMENTAL_INJECT_NITRO": "1"
+    }
+  }
+}
