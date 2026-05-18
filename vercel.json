@@ -2,7 +2,7 @@
   "version": 2,
   "build": {
     "env": {
-      "VERCEL_CLI_VERSION": "vercel@https://vercel-5aqdyykt0.vercel.sh/tarballs/vercel.tgz"
+      "VERCEL_CLI_VERSION": "vercel@https://vercel-6jc5m6yym.vercel.sh/tarballs/vercel.tgz"
     }
   }
 }
